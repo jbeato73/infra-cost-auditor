@@ -1,0 +1,7 @@
+
+[
+    {"server": "NY-PROD-01", "cost": 1200},
+    {"server": "TX-DEV-04", "cost": -50},
+    {"server": null, "cost": 800},
+    {"server": "LON-GATEWAY-01", "cost": 2500}
+]
